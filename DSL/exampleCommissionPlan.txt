@@ -1,0 +1,10 @@
+RULES
+	rulestart
+		if SPI > 20 and SPI < 60 then if SPI == 50 then x = 10 end end
+	ruleend
+
+	rulestart
+		SPI / 100 * VariablePay
+	ruleend
+RULESEND
+
