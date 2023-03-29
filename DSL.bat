@@ -1,1 +1,0 @@
-java -cp ./resources;./resources/antlr-4.12.0-complete.jar;./resources/gson.jar Main %*
