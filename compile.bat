@@ -1,1 +1,0 @@
-javac -cp ./resources/antlr-4.12.0-complete.jar;./resources/gson.jar DSL*.java Main.java
